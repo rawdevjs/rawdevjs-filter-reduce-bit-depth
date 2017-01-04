@@ -1,0 +1,32 @@
+{
+  "name": "rawdevjs-filter-reduce-bit-depth",
+  "version": "1.0.0",
+  "description": "Reduces the bit depth",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rawdevjs/rawdevjs-filter-reduce-bit-depth.git"
+  },
+  "keywords": [
+    "rawdevjs",
+    "reduce",
+    "bit"
+  ],
+  "author": "Thomas Bergwinkl <bergi@axolotlfarm.org> (https://www.bergnet.org/people/bergi/card#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rawdevjs/rawdevjs-filter-reduce-bit-depth/issues"
+  },
+  "homepage": "https://github.com/rawdevjs/rawdevjs-filter-reduce-bit-depth",
+  "dependencies": {
+    "rawdevjs-image": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "readmeFilename": "README.md"
+}
